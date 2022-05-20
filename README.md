@@ -30,6 +30,19 @@ Javascript, HTML, CSS.
           
 </p>
 
+##
+<div>
+  <a href="https://github.com/flaviojfilho">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=flaviojfilho&show_icons=true&theme=dracula"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviojfilho&layout=compact&langs_count=9&theme=dracula"/>
+  </a>
+</div>
+<!--![Snake animation](https://github.com/flaviojfilho/flaviojfilho/blob/output/github-contribution-grid-snake.svg)-->
+
+
+
+
+
 <!---
 Flaviojfilho/Flaviojfilho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
